@@ -1,1 +1,1 @@
-a
+This project uses Transfer Learning with a CNN model to classify car images based on their company logos. By fine-tuning a pre-trained model, it efficiently distinguishes between various car brands with good accuracy.
